@@ -44,16 +44,15 @@ body {
 .globalMain > .Mainwrapper {
   display: flex;
   flex-direction: row;
-  margin: 0 20px;
   flex-wrap: wrap;
-  max-width: 335px;
+  max-width: 400px;
   margin-left: auto;
   margin-right: auto;
 }
 .Mainwrapper li {
   width: 83px;
   /* margin-right: 28px; */
-  margin: 10px 20px 0 8px;
+  margin: 10px 20px 0 25px;
   /* border: 1px solid red; */
 }
 /* .Mainwrapper li{
@@ -124,4 +123,4 @@ body {
   }
 }
 
-/*# sourceMappingURL=style.679a3da0.css.map */
+/*# sourceMappingURL=style.2de64b1b.css.map */
