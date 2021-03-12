@@ -25,7 +25,7 @@ body {
     background-size: cover;
     
     opacity: .9;
-    background-color: #464646;
+    height: 100vh;
 }
 .globalHeader {
   margin: 60px 20px 40px 10px;
@@ -117,9 +117,6 @@ body {
   display: none;
 }
 @media (min-width: 480px) {
-  body {
-    height:100vh;
-}
   .globalHeader {
     margin-top: 100px;
     margin-bottom: 60px;
@@ -139,4 +136,4 @@ body {
   }
 }
 
-/*# sourceMappingURL=style.f7869a09.css.map */
+/*# sourceMappingURL=style.be199f3a.css.map */
