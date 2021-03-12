@@ -14,7 +14,7 @@ a {
 }
 body {
   /* background: #eee; */
-  background-image: url(background.401e434d.jpg);
+  background-image: url(4.db0f4e63.jpg);
      /* 背景图垂直、水平均居中 */
      background-position: center center;
      /* 背景图不平铺 */
@@ -25,7 +25,7 @@ body {
     background-size: cover;
     
     opacity: .9;
-    height: 100vh;
+    height: 100%;
 }
 .globalHeader {
   margin: 60px 20px 40px 10px;
@@ -118,7 +118,7 @@ body {
 }
 @media (min-width: 480px) {
   body{
-    height: 100vh;
+    height: 100%;
   }
   .globalHeader {
     margin-top: 100px;
@@ -139,4 +139,4 @@ body {
   }
 }
 
-/*# sourceMappingURL=style.82c55d61.css.map */
+/*# sourceMappingURL=style.477c26bc.css.map */
