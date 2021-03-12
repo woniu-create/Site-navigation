@@ -25,6 +25,8 @@ body {
     background-size: cover;
     
     opacity: .9;
+    width: 100vh;
+    height: 100vh;
     
 }
 .globalHeader {
@@ -136,4 +138,4 @@ body {
   }
 }
 
-/*# sourceMappingURL=style.f8257fe1.css.map */
+/*# sourceMappingURL=style.eacf33e1.css.map */
