@@ -47,6 +47,8 @@ body {
   margin: 0 20px;
   flex-wrap: wrap;
   max-width: 335px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .Mainwrapper li {
   width: 83px;
@@ -106,7 +108,6 @@ body {
   .globalHeader {
     margin-top: 100px;
     margin-bottom: 60px;
-    background: black;
   }
   .searchForm {
     max-width: 400px;
@@ -115,8 +116,7 @@ body {
   }
   .globalMain > .Mainwrapper{
     max-width: 720px;
-    margin-left: auto;
-    margin-right: auto;
+
   }
   .Mainwrapper li {
     width: 83px;
@@ -124,4 +124,4 @@ body {
   }
 }
 
-/*# sourceMappingURL=style.c0c6de5c.css.map */
+/*# sourceMappingURL=style.679a3da0.css.map */
