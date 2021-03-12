@@ -161,7 +161,7 @@ var render = function render() {
 
 render();
 $(".addWrapper").on("click", function () {
-  var url = window.prompt("你要输入啥?");
+  var url = window.prompt("请输入你要添加的网址");
 
   if (url.indexOf("http") !== 0) {
     url = "https://" + url;
@@ -179,4 +179,4 @@ window.onbeforeunload = function () {
   localStorage.setItem('y', string);
 };
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=main.30619994.js.map
+//# sourceMappingURL=main.0fac3a30.js.map
