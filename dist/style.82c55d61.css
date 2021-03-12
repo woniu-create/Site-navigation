@@ -117,6 +117,9 @@ body {
   display: none;
 }
 @media (min-width: 480px) {
+  body{
+    height: 100vh;
+  }
   .globalHeader {
     margin-top: 100px;
     margin-bottom: 60px;
@@ -136,4 +139,4 @@ body {
   }
 }
 
-/*# sourceMappingURL=style.be199f3a.css.map */
+/*# sourceMappingURL=style.82c55d61.css.map */
