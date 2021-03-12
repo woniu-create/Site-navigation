@@ -14,9 +14,21 @@ a {
 }
 body {
   background: #eee;
+  background-image: url(background.401e434d.jpg);
+     /* 背景图垂直、水平均居中 */
+     background-position: center center;
+     /* 背景图不平铺 */
+     background-repeat: no-repeat;
+     /* 当内容高度大于图片高度时，背景图像的位置相对于viewport固定 */
+     background-attachment: fixed; 
+     /* 让背景图基于容器大小伸缩 */
+    background-size: cover;
+    
+    opacity: .9;
+    
 }
 .globalHeader {
-  margin: 30px 20px 20px 10px;
+  margin: 60px 20px 40px 10px;
 }
 .searchForm {
   display: flex;
@@ -78,6 +90,7 @@ body {
   text-align: center;
   margin-top: 4px;
   margin-bottom: 10px;
+  color: #fff;
 }
 /* .Mainwrapper .addWrapper{
     border: 1px solid black;
@@ -123,4 +136,4 @@ body {
   }
 }
 
-/*# sourceMappingURL=style.2de64b1b.css.map */
+/*# sourceMappingURL=style.f8257fe1.css.map */
